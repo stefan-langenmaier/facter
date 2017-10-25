@@ -1,0 +1,9 @@
+Facter
+======
+
+Facter is a java "clone" of facter from the ruby world. Its goal is to be a drop in jar that can analyse a system state including running JVMs to be used for trouble-shooting.
+
+Usage
+-----
+
+java -jar facter.jar > system-facts.txt
